@@ -97,15 +97,27 @@ CET6
 ## 技能树
 
 设备安装、调试 · 熟练
+
 数据整理 · 熟练
+
 客⼾对接 · 熟练
+
 C++ · ⼀般
+
 Vue.js · 掌握
+
 Figma · 熟练
+
 DaVinci Resolve · 掌握
+
 OBS Studio · 掌握
+
 Git · 掌握
+
 Linux · 掌握
+
 Python · 熟练
+
 Docker · 初学
+
 Tensorflow · ⼀般
